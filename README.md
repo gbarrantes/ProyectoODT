@@ -1,7 +1,7 @@
 # ProyectoODT
 Proyecto Analisis
 
-#Integrantes
+# Integrantes
 -Denilson Araya Abarca.
 -Gabriel Barrantes Cano.
 -Ignacio Montoya Richmond.
