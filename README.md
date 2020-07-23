@@ -1,4 +1,5 @@
-# ProyectoODT
+# Proyecto ODT
+<img src="Logo_ODT_Studio.png" alt="Logo ODT Studio" width="500" height="600">
 Proyecto Analisis
 
 # Integrantes
