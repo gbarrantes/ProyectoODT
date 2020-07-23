@@ -2,7 +2,4 @@
 Proyecto Analisis
 
 # Integrantes
--Denilson Araya Abarca.
--Gabriel Barrantes Cano.
--Ignacio Montoya Richmond.
--Christopher Ruiz Porras.
+-Denilson Araya Abarca.</br>-Gabriel Barrantes Cano.</br>-Ignacio Montoya Richmond.</br>-Christopher Ruiz Porras.
