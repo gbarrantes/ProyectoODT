@@ -1,5 +1,5 @@
 # Proyecto ODT
-<img src="https://www.pinterest.ca/pin/164029611415632804/" alt="Logo ODT Studio" width="500" height="600">
+![CapturaODT](https://user-images.githubusercontent.com/68702986/88311991-d8273980-ccce-11ea-92d3-5cc36f4bbe6f.PNG)
 Proyecto Analisis
 
 # Integrantes
