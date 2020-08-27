@@ -13,19 +13,19 @@ Se desarrollará un sistema de administración de órdenes de trabajo y la gesti
 
 La plataforma virtual busca ser lo más sencilla posible para que los trabajadores y clientes no tengan problemas a la hora de utilizarlos, simplificando la interfaz para que tenga solo lo que es realmente necesario.
 
-# Instalación del repositorio en el equipo
-Lo primero que se debe hacer es descargar he instalarlo en tu computador ya que los cambios se hacen localmente
+# Instalación del repositorio en el equipo<br>
+Lo primero que se debe hacer es descargar he instalarlo en tu computador ya que los cambios se hacen localmente<br>
 
-Una vez instalado:
+Una vez instalado:<br>
 
-1.Se abre la consola Git
-2.Luego se configura el usuario y el email con los comandos:
-$ git confif --global user.name "usuario"
-$ git config --global user.mail "email" 
-3. Para iniciar repositorio local se debe crear una carpeta, ubicarse dentro de la carpeta desde la consola git y escribir el comando: git init.
-4. Posteriormente dentro de la consola escribir (cd "nombre de carpeta") 
-utilizo los comandos (ls -l) para ver los archivos y finalmente (git init) para inicializar esa carpeta como un repositorio local
-5.Añadir archivos al staging area con git add. o git add<archivo>
-6.Confirmar los cambios en el repositorio con git commit -m"comentario"
-7.Ver estado de un archivo con git status -s
-8.Ver la diferencia entre archivos que estan añadidos y los cambios que aún no estan con git diff
+1.Se abre la consola Git<br>
+2.Luego se configura el usuario y el email con los comandos:<br>
+$ git confif --global user.name "usuario"<br>
+$ git config --global user.mail "email" <br>
+3. Para iniciar repositorio local se debe crear una carpeta, ubicarse dentro de la carpeta desde la consola git y escribir el comando: git init.<br>
+4. Posteriormente dentro de la consola escribir (cd "nombre de carpeta") <br>
+utilizo los comandos (ls -l) para ver los archivos y finalmente (git init) para inicializar esa carpeta como un repositorio local<br>
+5.Añadir archivos al staging area con git add. o git add<archivo><br>
+6.Confirmar los cambios en el repositorio con git commit -m"comentario"<br>
+7.Ver estado de un archivo con git status -s<br>
+8.Ver la diferencia entre archivos que estan añadidos y los cambios que aún no estan con git diff<br>
