@@ -1,6 +1,6 @@
 
 # Proyecto ODT
-![CapturaODT](https://user-images.githubusercontent.com/68702986/88311991-d8273980-ccce-11ea-92d3-5cc36f4bbe6f.PNG)</br>
+![CapturaODT](https://raw.githubusercontent.com/gbarrantes/ProyectoODT/master/Logo%20ODT%20Studio.png)</br>
 Proyecto Análisis
 
 # Integrantes
