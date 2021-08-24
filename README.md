@@ -24,13 +24,14 @@ Ya que el sistema utiliza recursos que navegadores como google chrome, opera, ed
 
 # Algunas preguntas que se pueden generar al usar la herramienta<br>
 
-1.Como ingreso al sistema?<br>
-Para ingresar a la herramienta, se debe contar con un acceso que ya haya sido creado por un usuario administrador. Posteriormente, se puede cambiar su clave para su personalización.<br>
-2.Como puedo ver la información de mis órdenes?<br>
-En la parte izquierda, en el cuadro celeste salen las siguientes opciones representadas con símbolos (cabe recalcar que en el modo colaborardor las opciones en este apartado son limitadas.):<br>
+1. Como ingreso al sistema?<br>
+R/ Para ingresar a la herramienta, se debe contar con un acceso que ya haya sido creado por un usuario administrador. Posteriormente, se puede cambiar su clave para su personalización.<br>
+2. Como puedo ver la información de mis órdenes?<br>
+R/ En la parte izquierda, en el cuadro celeste salen las siguientes opciones representadas con símbolos (cabe recalcar que en el modo colaborardor las opciones en este apartado son limitadas.):<br>
 Pantalla de inicio<br>
 Lista de órdenes que me incluyen<br>
 Lista de clientes ingresados<br>
 Lista de usuarios ingresados<br>
 Registro de usuarios nuevos<br>
-3.<br>
+3. Se puede personalizar el perfil?<br>
+R/ Si, ya habiendo ingresado con una cuenta valida, en la esquina superior derecha se puede observar su nombre, al dar click se despliega una opcion de perfil, una vez cargada la pagina solo es de dar click en "Editar", se puede cambiar la información.<br>
