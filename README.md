@@ -1,7 +1,7 @@
 
-# Proyecto ODT
+# Proyecto ODT Studio
 ![CapturaODT](https://raw.githubusercontent.com/gbarrantes/ProyectoODT/master/Logo%20ODT%20Studio.png)</br>
-Proyecto Análisis
+Proyecto para la carrera de ingenieria en sistemas de computacion
 
 # Integrantes
 -Denilson Araya Abarca.</br>-Gabriel Barrantes Cano.</br>-Ignacio Montoya Richmond.</br>-Christopher Ruiz Porras. </br>
@@ -13,19 +13,24 @@ Se desarrollará un sistema de administración de órdenes de trabajo y la gesti
 
 La plataforma virtual busca ser lo más sencilla posible para que los trabajadores y clientes no tengan problemas a la hora de utilizarlos, simplificando la interfaz para que tenga solo lo que es realmente necesario.
 
-# Instalación del repositorio en el equipo<br>
-Lo primero que se debe hacer es descargar he instalarlo en tu computador ya que los cambios se hacen localmente<br>
+# Caracteristica del sistema
+1.La sesion es capaz de cerrarse sola despues de haber pasado cierto tiempo.<br>
+2.Se cuenta con un sistema de mensajeria de correo para la entrega de claves de acceso ya que la cual es de uso estricto personal.<br>
+3.Recomendable que no se exceda mucho el peso de alguna imagen ya que puede sobrecargar la carga al ingresar alguna orden.<br>
+4.Cada opción dentro de la herramienta suelta algun tipo de dato para saber que hace la opción, en caso de no entender.<br>
 
-Una vez instalado:<br>
+# Uso de la aplicacion en el equipo<br>
+Ya que el sistema utiliza recursos que navegadores como google chrome, opera, edge y mozilla cuentan, algun tipo de software extra no es requerido; si se diera el caso con antemano se informaria del faltante del recurso.<br>
 
-1.Se abre la consola Git<br>
-2.Luego se configura el usuario y el email con los comandos:<br>
-$ git confif --global user.name "usuario"<br>
-$ git config --global user.mail "email" <br>
-3. Para iniciar repositorio local se debe crear una carpeta, ubicarse dentro de la carpeta desde la consola git y escribir el comando: git init.<br>
-4. Posteriormente dentro de la consola escribir (cd "nombre de carpeta") <br>
-utilizo los comandos (ls -l) para ver los archivos y finalmente (git init) para inicializar esa carpeta como un repositorio local<br>
-5.Añadir archivos al staging area con git add. o git add<archivo><br>
-6.Confirmar los cambios en el repositorio con git commit -m"comentario"<br>
-7.Ver estado de un archivo con git status -s<br>
-8.Ver la diferencia entre archivos que estan añadidos y los cambios que aún no estan con git diff<br>
+# Algunas preguntas que se pueden generar al usar la herramienta<br>
+
+1.Como ingreso al sistema?<br>
+Para ingresar a la herramienta, se debe contar con un acceso que ya haya sido creado por un usuario administrador. Posteriormente, se puede cambiar su clave para su personalización.<br>
+2.Como puedo ver la información de mis órdenes?<br>
+En la parte izquierda, en el cuadro celeste salen las siguientes opciones representadas con símbolos (cabe recalcar que en el modo colaborardor las opciones en este apartado son limitadas.):<br>
+Pantalla de inicio<br>
+Lista de órdenes que me incluyen<br>
+Lista de clientes ingresados<br>
+Lista de usuarios ingresados<br>
+Registro de usuarios nuevos<br>
+3.<br>
